@@ -2,6 +2,14 @@
 
 * NOTE: Author is using PowerShell for this guide.
 
+## Resume Creatorator - Dependency
+
+```toml
+[packages]
+...
+resumecreatorator = {file = "../resume-creatorator", editable = true}
+```
+
 ## Features
 
 * Custom user model.

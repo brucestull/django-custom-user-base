@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8ff2948cf017a76dd6b88c2035fa37e38d1ac394bcaee64302ba98eb1e97a1bc"
+            "sha256": "605bd4b25e5cb00badb75a98af2a74c5984698a108b6a08153a74cdef1a4c013"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -314,6 +314,10 @@
             "index": "pypi",
             "markers": "python_version >= '3.8'",
             "version": "==1.0.1"
+        },
+        "resumecreatorator": {
+            "editable": true,
+            "file": "../resume-creatorator"
         },
         "sqlparse": {
             "hashes": [

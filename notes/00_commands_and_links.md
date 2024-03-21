@@ -2,6 +2,14 @@
 
 ## Commands
 
+## Install with Editing Enabled
+
+- `pipenv install -e ..\kitten-corner\`
+
+## Install from `tar.gz` Compressed Archive Files
+
+- `pipenv install ..\resume-creatorator\dist\ResumeCreatorator-0.1.tar.gz`
+
 ### This Project
 
 1. `pipenv install`
